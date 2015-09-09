@@ -1,5 +1,5 @@
-## CRUD operations using Spring, Maven, Hibernate and MySQL ##
-Implementing CRUD operations using Spring, Maven and Hibernate with MySQL database.
+## Spring, Maven, Hibernate and MySQL Implementation ##
+Implementing Spring, Maven and Hibernate with MySQL database.
 
 
 
